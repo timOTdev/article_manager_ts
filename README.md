@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+- Installing typescript `yarn add --dev typescript @types/react`
+
 First, run the development server:
 
 ```bash
